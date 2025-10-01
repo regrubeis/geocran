@@ -141,4 +141,4 @@ title: Medição de terreno
 23 - **Medição para implantação de obras**  
     Após o projeto, é hora de transferir os dados para o campo. A GEOCRAN realiza a locação de obras com base em medições precisas, garantindo que fundações, muros, pavimentos e demais elementos sejam executados no local correto.
 
-<br/>
+
