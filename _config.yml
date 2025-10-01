@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "http://regrubeis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://regrubeis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/geocran" # the subpath of your site, e.g. /blog
 
 title      : Geocran Geoprocessamento
@@ -36,7 +36,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
-  
+
+formspree_form_path: f/xjkvrojn  
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-formspree_form_path: f/xjkvrojn
+
